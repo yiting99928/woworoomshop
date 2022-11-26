@@ -147,7 +147,7 @@ orderInfoBtn.addEventListener('click',function(e){
         return;
     }
     if(validateEmail(customerEmail)==false){
-        alert("電話格式輸入有誤")
+        alert("電子信箱格式輸入有誤")
         return;
     }
     axios.post(`https://livejs-api.hexschool.io/api/livejs/v1/customer/${api_path}/orders`,{
