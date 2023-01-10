@@ -8,7 +8,8 @@
 </samp>
 </div>
 
-▎DEMO  連結：[點我](https://yiting99928.github.io/woworoomshop/) <br>
+▎前台DEMO 連結：[點我](https://yiting99928.github.io/woworoomshop/) <br>
+▎後台DEMO 連結：[點我](https://yiting99928.github.io/woworoomshop/admin.html) <br>
 ▎XD設計稿連結：[點我](https://xd.adobe.com/view/a48b8617-4588-4817-9062-b62130dce916-f1d8/) <br>
 
 此為六角學院直播班提供設計稿、前後台HTML、CSS，本作品完成JS功能，僅作為個人練習使用
