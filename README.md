@@ -1,11 +1,9 @@
 <div align="center">
-<samp>
-
+  
 ![](https://images2.imgbox.com/69/3e/S1bMePqD_o.png)
 ![](https://images2.imgbox.com/fa/d0/rT0jYnt0_o.png)
 # 2022 六角學院JavaScript直播班 | WOWOROOM
-
-</samp>
+  
 </div>
 
 ▎前台DEMO 連結：[點我](https://yiting99928.github.io/woworoomshop/) <br>
